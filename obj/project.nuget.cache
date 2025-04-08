@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zlq8wLHImiNWb30vp47vb0NmJLrVFBTE5jKlqSjB23saXm2092YJP//nVxFLH35e2FwoXCEHMdLzZcwPuZFlxw==",
+  "success": true,
+  "projectFilePath": "/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/TCSA.OOP.LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/rahulnayal/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

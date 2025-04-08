@@ -1,0 +1,17 @@
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/TCSA.OOP.LibraryManagementSystem
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.deps.json
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.runtimeconfig.json
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.dll
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.pdb
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/bin/Debug/net7.0/Spectre.Console.dll
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.csproj.AssemblyReference.cache
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.AssemblyInfoInputs.cache
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.AssemblyInfo.cs
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.csproj.CopyComplete
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.dll
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/refint/TCSA.OOP.LibraryManagementSystem.dll
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.pdb
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/TCSA.OOP.LibraryManagementSystem.genruntimeconfig.cache
+/Users/rahulnayal/Projects/TCSA.OOP.LibraryManagementSystem/obj/Debug/net7.0/ref/TCSA.OOP.LibraryManagementSystem.dll
